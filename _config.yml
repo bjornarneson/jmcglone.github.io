@@ -1,4 +1,6 @@
-permalink: /notes/:year/:month/:day/:title
-markdown: kramdown
-kramdown:
-    parse_block_html: true
+title: Brittany Kallman Arneson
+author: Brittany Kallman Arneson
+email: brittany@bkarneson.com
+description: Brittany Kallman Arneson is a writer, editor, and writing coach. 
+
+include: ["_pages"]
