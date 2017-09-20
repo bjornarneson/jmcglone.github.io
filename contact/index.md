@@ -1,25 +1,18 @@
 ---
 layout: default
 title: Contact
-cv: passive
-projects: passive
-notes: passive
+services: passive
 contact: active
-description: Contact information for Jonathan McGlone, a Librarian, Front-End Developer, Digital Publisher, Project Manager, Music Enthusiast, and Web Noodler living and working in Michigan.
+description: Contact information for Brittany Kallman Arneson, writer, editor, and writing coach
 ---
 <div class="contact">
 
-	<p>You can get in touch with or find me at:</p>
-	
-	<ul class="list-unstyled">
-	<li><a href="http://www.lib.umich.edu/users/jmcglone">@MLibrary</a></li>
-	<li><a href="http://github.com/jmcglone">@GitHub</a></li>
-	<li><a href="http://jsfiddle.net/user/jmcglone/fiddles/">@jsfiddle</a></li>
-	<li><a href="http://www.discogs.com/user/jwmcglone">@Discogs</a></li>
-	<li><a href="http://www.mixcloud.com/jwmcglone/">@Mixcloud</a></li>
-	<li><a href="http://soundcloud.com/jwmcglone">@SoundCloud</a></li>
-	<!-- <li><a href="http://dribbble.com/jmcglone">@Dribbble</a></li> -->
-	<li>Or by sending an e-mail to <span class="obfuscate">moc.liamg@enolgcmwj</span></li>
-	</ul>
+
+Interested in hiring me or learning more about my writing, editing,
+and coaching services? Send me an e-mail at <brittany@bkarneson.com> or give me a call at **612-401-0799**.
+
+I love talking to potential clients and am happy to answer questions
+or discuss your unique needs. I look forward to hearing from you!
+
 
 </div>
