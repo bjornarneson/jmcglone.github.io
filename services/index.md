@@ -5,7 +5,8 @@ services: active
 contact: passive
 description: Services offered by Brittany Kallman Arneson, writer, editor, and writing coach
 ---
-
+<div class='contact'>
+  
 ### Writing
 
 **Copywriting**: Clear, focused copy for print or web, written to
@@ -41,3 +42,6 @@ writing, and you want to make sure you sound polished.
 Regular coaching sessions tailored to your workplace’s style
 and expectations help you achieve your professional goals
 and communicate clearly at work.
+
+</div>
+
