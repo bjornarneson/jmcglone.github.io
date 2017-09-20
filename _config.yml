@@ -2,5 +2,6 @@ title: Brittany Kallman Arneson
 author: Brittany Kallman Arneson
 email: brittany@bkarneson.com
 description: Brittany Kallman Arneson is a writer, editor, and writing coach. 
+baseurl: http://www.bkarneson.com/
 
 include: ["_pages"]
